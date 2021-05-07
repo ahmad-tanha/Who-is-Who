@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ahmad-tanha 
-- 👀 I’m interested in telecommunications, DevOps, and cloud engineering
+- 👋 Hi, I’m @ahmad-tanha.
+- 👀 I’m interested in telecommunications, DevOps, and cloud engineering.
 - 🌱 Learning is inseparable part of my life.
 - 📫 You can reach me via the following email addresses: 
 
