@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@ahmad-tanha](https://github.com/ahmad-tanha/Who-is-Who).
-- 👀 I’m interested in telecommunications, programming, DevOps, and cloud engineering.
+- 👀 I’m interested in telecom., programming, DevOps, and cloud engineering.
 - 🌱 Learning is inseparable part of my life.
 - 🙋‍♂️ More info. about me can be found on [LinkedIn](https://www.linkedin.com/in/ahmad-tanha/). 
 - 📫 You can reach me via the following email addresses: 
