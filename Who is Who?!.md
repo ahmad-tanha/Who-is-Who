@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@ahmad-tanha](https://github.com/ahmad-tanha/Who-is-Who)
+- 👋 Hi, I’m [@ahmad-tanha](https://github.com/ahmad-tanha/Who-is-Who).
 - 👀 I’m interested in telecommunications, programming, DevOps, and cloud engineering.
 - 🌱 Learning is inseparable part of my life.
 - 🙋‍♂️ More about me can be found on [LinkedIn](https://www.linkedin.com/in/ahmad-tanha/). 
