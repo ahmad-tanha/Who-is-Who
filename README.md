@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ahmad Tanha.
 - 👀 I’m mainly interested in telecom, programming, and machine learning.
-- 🌱 Learning is inseparable part of my life.
-- 🙋‍♂️ More info about me can be found on [LinkedIn](https://www.linkedin.com/in/ahmad-tanha/). 
+- 🌱 Learning is inseparable part of my life. 
 - 📫 You can reach me via the following email addresses: 
 ahmadtanha@email.kntu.ac.ir or ahmadtanha1374@gmail.com 
 
