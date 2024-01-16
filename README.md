@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ahmad Tanha.
-- 👀 I’m mainly interested in telecom, programming, and machine learning.
-- 🌱 Learning is inseparable part of my life. 
-- 📫 You can reach me via the following email addresses: 
-ahmadtanha@email.kntu.ac.ir or ahmadtanha1374@gmail.com 
+- 👋 Hi, I am Ahmad Tanha.
+- 👨‍💻 I am mainly interested in telecom, programming, and machine learning.
+- 🌱 Learning is an inseparable part of my life. 
+- 📫 You can reach me via the following email address: 
+"ahmadtanhaa@yahoo.com"
 
 <!---
 ahmad-tanha/ahmad-tanha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
