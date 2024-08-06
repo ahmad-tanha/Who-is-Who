@@ -1,6 +1,5 @@
 - 👋 Hi, I am Ahmad Tanha.
-- 👨‍💻 I am mainly interested in telecom, programming, and machine learning.
-- 🌱 Learning is an inseparable part of my life. 
+- 👨‍💻 I am mainly interested in telecom, programming, and machine learning. 
 - 📫 You can reach me via the following email address: 
 "ahmadtanhaa@yahoo.com"
 
